@@ -13,7 +13,9 @@ Sys-scan is a Python script that gathers information about the user’s environm
 
 To use the script, simply run it using Python:
 
-`python sys-scan.py`
+```
+python sys-scan.py
+```
 
 The script will gather information about the user’s environment and print it to the console.
 
@@ -26,7 +28,9 @@ The script requires the following third-party libraries:
 
 You can install these libraries using pip by running the following command:
 
-`pip install httpagentparser accept-language-parser`
+```
+pip install httpagentparser parse-accept-language
+```
 
 ## Contributions
 
