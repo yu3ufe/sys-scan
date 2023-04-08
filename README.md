@@ -9,6 +9,14 @@ Sys-scan is a Python script that gathers information about the user’s environm
 - Client IP address
 - Server information
 
+## Support
+
+If you find this project useful and would like to support its development, you can buy me a coffee by clicking the button below:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/yu3ufe)
+
+Your support is greatly appreciated!
+
 ## Usage
 
 To use the script, simply run it using Python:
@@ -40,4 +48,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvin
 
 ## License
 
-This script is released under the MIT license.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
